@@ -1,8 +1,10 @@
 # Keepsake
 
-**Can a robot remember only what surprises it?**
+**What should a robot remember?**
 
-Paper working title: *Remember What Surprises You: Lean Memory for Real-Time World-Model Planning*
+Keepsake tests whether a world model's own surprise is a good guide.
+
+Paper working title: *What Should a Robot Remember? Surprise as a Guide to Lean Memory in Real-Time World-Model Planning*
 
 | | |
 |---|---|
